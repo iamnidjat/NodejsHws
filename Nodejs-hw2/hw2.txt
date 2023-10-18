@@ -1,0 +1,3 @@
+установить папку axios через npm. Через axios брать данный массив и показать в терминале
+
+jsonplaceholder.typicode.com/posts
